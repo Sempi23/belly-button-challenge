@@ -10,8 +10,8 @@ Dashboard Features Created
     2. Demographic Info Panel - Shows the selected individual's demographic information as key-value pairs
     3. Horizontal Bar Graph - Displays the top 10 OTUs found in the individual selected from the dropdown menu.
     4. Bubble Chart - Displays each sample.
-
-    ![Dashboard Features](file:///C:/Users/lsemp/OneDrive/Desktop/Classwork/assignments/module14%20belly-button%20challenge/belly-button-challenge/index.html)
+    
+   ![Dashboard Features](https://github.com/Sempi23/belly-button-challenge/blob/main/Belly-button%20Dashboard.jpg?raw=true)
     
 
 
