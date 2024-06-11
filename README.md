@@ -12,6 +12,7 @@ Dashboard Features Created
     4. Bubble Chart - Displays each sample.
 
     ![Dashboard Features](file:///C:/Users/lsemp/OneDrive/Desktop/Classwork/assignments/module14%20belly-button%20challenge/belly-button-challenge/index.html)
+    
 
 
 Technologies used
