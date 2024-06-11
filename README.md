@@ -10,8 +10,8 @@ The goal of this project eas to build an interactive dashboard to explore the Be
     2. Demographic Info Panel - Shows the selected individual's demographic information as key-value pairs
     3. Horizontal Bar Graph - Displays the top 10 OTUs found in the individual selected from the dropdown menu.
     4. Bubble Chart - Displays each sample.
-
-    ![Dashboard Features]("C:\Users\lsemp\OneDrive\Desktop\Belly-button Dashboard.jpg")
+    
+   ![Dashboard Features](https://github.com/Sempi23/belly-button-challenge/blob/main/Belly-button%20Dashboard.jpg?raw=true)
     
 
 
